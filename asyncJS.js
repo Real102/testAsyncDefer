@@ -1,2 +1,2 @@
 console.log('asyncJS')
-alert('asyncJS')
+// alert('asyncJS')

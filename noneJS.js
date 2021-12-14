@@ -1,2 +1,2 @@
 console.log('noneJS')
-alert('noneJS')
+// alert('noneJS')

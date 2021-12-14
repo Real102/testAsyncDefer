@@ -1,2 +1,2 @@
 console.log('deferJS')
-alert('deferJS')
+// alert('deferJS')
